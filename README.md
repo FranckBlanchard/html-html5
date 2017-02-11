@@ -9,3 +9,7 @@ Liste  des fichiers et leurs descriptions.
 * [html5.html](src/html5.html "")
 
     Fichier html5 de base.
+
+* [html5.jquery.html](src/html5.jquery.html)
+
+    Fichier incluant la librairie javascript Jquery depuis le CDN Google.
